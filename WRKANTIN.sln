@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WRKANTIN", "WRKANTIN.csproj", "{E7CE5780-01B5-4E47-887F-A5A317907B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7CE5780-01B5-4E47-887F-A5A317907B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CE5780-01B5-4E47-887F-A5A317907B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CE5780-01B5-4E47-887F-A5A317907B57}.Debug|x64.ActiveCfg = Debug|x64
+		{E7CE5780-01B5-4E47-887F-A5A317907B57}.Debug|x64.Build.0 = Debug|x64
+		{E7CE5780-01B5-4E47-887F-A5A317907B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CE5780-01B5-4E47-887F-A5A317907B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CE5780-01B5-4E47-887F-A5A317907B57}.Release|x64.ActiveCfg = Release|x64
+		{E7CE5780-01B5-4E47-887F-A5A317907B57}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8E43B12-0D36-4634-8477-CEDB59676D9F}
+	EndGlobalSection
+EndGlobal
